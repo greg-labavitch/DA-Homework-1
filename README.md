@@ -1,6 +1,6 @@
 # Project-1-Wine-Quality
 Wine Quality – 
-Vinho Verde
+Vinho Verde (Green Wine)
 
 “The Vinho Verde region is diverse and versatile in wine styles and profiles, known for producing not only light and fresh wines, but also complex, structured, and mineral wines.
 
@@ -10,7 +10,7 @@ The data is numerical and is derived from physicochemical tests.
 We would like to answer questions pertaining to how the various input variables tend to relate to each other, and how they affect the
 quality of the wine.
 
-We will draw conclusions by comparing and contrasting input variables that affect the overall quality score.
+We will draw conclusions by comparing and contrasting input variables that affect the overall wine quality score.
 
 The source for our data is Kaggle under the title Wine Quality by Joakim Arvidsson. We will also draw information from https://www.vinhoverde.pt/en/about-vinho-verde since this source was included with page where we found the csv files we will be using.
 
